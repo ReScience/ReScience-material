@@ -15,10 +15,10 @@
    width="387.5"
    height="203.75"
    xml:space="preserve"
-   sodipodi:docname="ReScience-banner.svg"
-   inkscape:export-filename="/Users/rougier/Development/Public/ReScience/ReScience.material/ReScience-banner-250.png"
-   inkscape:export-xdpi="58.064518"
-   inkscape:export-ydpi="58.064518"><metadata
+   sodipodi:docname="ReScience-banner.pdf"
+   inkscape:export-filename="/Users/rougier/Development/Public/ReScience/ReScience.material/ReScience-banner-1000.png"
+   inkscape:export-xdpi="232.25807"
+   inkscape:export-ydpi="232.25807"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
@@ -72,8 +72,8 @@
      inkscape:zoom="2.1447853"
      inkscape:cx="193.75"
      inkscape:cy="101.875"
-     inkscape:window-x="473"
-     inkscape:window-y="25"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="g10" /><g
      id="g10"
@@ -183,5 +183,5 @@
          id="tspan3026"
          x="50.905804"
          y="-65.056145"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Gill Sans;-inkscape-font-specification:Gill Sans Light">Reproducible science is good. Reproduced science is better.</tspan></text>
+         style="font-size:11.24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Gill Sans;-inkscape-font-specification:Gill Sans Light">Reproducible science is good. Replicated science is better.</tspan></text>
 </g></svg>
